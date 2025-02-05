@@ -1,0 +1,352 @@
+[
+  {
+      "id": "97700a9d-ca2f-4e8d-a929-535a57921a3d",
+      "name": "Aavid Walker",
+      "phone": "555-272-7595",
+      "email": "aavid.walker@mockemail.com",
+      "bookmarked": true
+  },
+  {
+      "id": "9e4c0c38-e42a-4c20-9343-acf049c6079e",
+      "name": "Bvonne Anderson",
+      "phone": "555-865-1964",
+      "email": "bvonne.anderson@mockemail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "86dee446-d546-4efe-b20c-15cce44e7829",
+      "name": "Cathan Johnson",
+      "phone": "555-731-2307",
+      "email": "cathan.johnson@example.com",
+      "bookmarked": false
+  },
+  {
+      "id": "760b2868-465d-4c36-ae96-6e6f3ead8cfe",
+      "name": "Drank Taylor",
+      "phone": "555-163-5341",
+      "email": "drank.taylor@mailinator.com",
+      "bookmarked": true
+  },
+  {
+      "id": "d38f737a-0af9-4341-8232-6ef072f8f0ac",
+      "name": "Ema Wilson",
+      "phone": "555-330-8282",
+      "email": "ema.wilson@mockemail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "aae8106e-ac1a-498f-a2cc-3199c0f4c291",
+      "name": "Fate Martin",
+      "phone": "555-464-9669",
+      "email": "fate.martin@mockemail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "b1642c55-ed2e-4f30-a0d3-19f7dddbf7f8",
+      "name": "Gve Clark",
+      "phone": "555-341-8920",
+      "email": "gve.clark@mailinator.com",
+      "bookmarked": true
+  },
+  {
+      "id": "3c821431-f240-46b7-bef7-e79048075fe5",
+      "name": "Hrace Garcia",
+      "phone": "555-117-7212",
+      "email": "hrace.garcia@example.com",
+      "bookmarked": true
+  },
+  {
+      "id": "e32bfac1-bddd-4b48-a19c-d4c1d0d0c45f",
+      "name": "Iachel Thomas",
+      "phone": "555-944-2361",
+      "email": "iachel.thomas@testmail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "025b2719-9b20-4966-bccd-dcdb4cdf4818",
+      "name": "Jachel Martinez",
+      "phone": "555-238-2554",
+      "email": "jachel.martinez@mockemail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "2850d5e8-9b19-4cec-a870-86082cdd4381",
+      "name": "Kharlie White",
+      "phone": "555-217-9453",
+      "email": "kharlie.white@mockemail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "7aad099c-e728-4db4-8d0f-470dd26d850f",
+      "name": "Lane Harris",
+      "phone": "555-934-6257",
+      "email": "lane.harris@mailinator.com",
+      "bookmarked": false
+  },
+  {
+      "id": "715e8f58-96ee-49d7-890f-839d4db28c1e",
+      "name": "Mate Thomas",
+      "phone": "555-158-2089",
+      "email": "mate.thomas@example.com",
+      "bookmarked": true
+  },
+  {
+      "id": "be055b7c-2668-4798-959e-86545c85ea91",
+      "name": "Nrank Thomas",
+      "phone": "555-358-1436",
+      "email": "nrank.thomas@mockemail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "0c6799e9-bc01-47f1-8d1f-6580dcc52994",
+      "name": "Oharlie Moore",
+      "phone": "555-634-4316",
+      "email": "oharlie.moore@mailinator.com",
+      "bookmarked": true
+  },
+  {
+      "id": "cd8fb280-b13b-43bf-acc3-3c129a26af34",
+      "name": "Pathan Taylor",
+      "phone": "555-374-3263",
+      "email": "pathan.taylor@testmail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "1a23114f-9711-4613-85d9-f89390ce46cb",
+      "name": "Qma Hall",
+      "phone": "555-310-3498",
+      "email": "qma.hall@mockemail.com",
+      "bookmarked": true
+  },
+  {
+      "id": "c67e3724-a6ed-42c2-8d6a-97b8635ac4d0",
+      "name": "Rma Thompson",
+      "phone": "555-348-1277",
+      "email": "rma.thompson@example.com",
+      "bookmarked": false
+  },
+  {
+      "id": "fe9f04df-6a64-4b99-a282-90da3bdbdda4",
+      "name": "Sam Young",
+      "phone": "555-330-8484",
+      "email": "sam.young@mailinator.com",
+      "bookmarked": false
+  },
+  {
+      "id": "c913fe2e-c4be-46f2-b42d-b94a9d2a690b",
+      "name": "Tam Martin",
+      "phone": "555-217-6469",
+      "email": "tam.martin@example.com",
+      "bookmarked": true
+  },
+  {
+      "id": "ac591658-4a91-4bda-bb2d-5fed918a011e",
+      "name": "Uina Miller",
+      "phone": "555-190-8944",
+      "email": "uina.miller@example.com",
+      "bookmarked": true
+  },
+  {
+      "id": "c501b81f-824e-4d63-a60f-b8fdd90b129d",
+      "name": "Vob Lee",
+      "phone": "555-829-1561",
+      "email": "vob.lee@mailinator.com",
+      "bookmarked": true
+  },
+  {
+      "id": "51bfb9a6-562f-43fc-99ae-6c102c77de68",
+      "name": "Wack Jackson",
+      "phone": "555-529-6291",
+      "email": "wack.jackson@mailinator.com",
+      "bookmarked": true
+  },
+  {
+      "id": "0da41d6b-6ed3-4780-8ae4-2a2f42e75290",
+      "name": "Xaul Walker",
+      "phone": "555-948-1290",
+      "email": "xaul.walker@testmail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "7b53ea1e-e7ba-471a-bcd3-d4a86191ffee",
+      "name": "Yictor Lee",
+      "phone": "555-143-3761",
+      "email": "yictor.lee@testmail.com",
+      "bookmarked": true
+  },
+  {
+      "id": "80053f73-0e75-4af2-b12e-7748bae17bf9",
+      "name": "Zma Garcia",
+      "phone": "555-576-4626",
+      "email": "zma.garcia@mailinator.com",
+      "bookmarked": true
+  },
+  {
+      "id": "29dacae5-fc86-4c99-8c8d-9eb4243cbbc1",
+      "name": "Leo Martinez",
+      "phone": "555-290-8935",
+      "email": "leo.martinez@example.com",
+      "bookmarked": false
+  },
+  {
+      "id": "0bbb8eef-2539-4081-9590-601f1a03a847",
+      "name": "Rachel Young",
+      "phone": "555-363-7193",
+      "email": "rachel.young@mockemail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "e32be7f5-8784-4a10-a476-997cb7cf8e05",
+      "name": "Victor Taylor",
+      "phone": "555-690-9185",
+      "email": "victor.taylor@example.com",
+      "bookmarked": false
+  },
+  {
+      "id": "19abad47-3e4c-4f33-894a-279ab420e0d8",
+      "name": "Charlie Martin",
+      "phone": "555-979-2195",
+      "email": "charlie.martin@mailinator.com",
+      "bookmarked": false
+  },
+  {
+      "id": "43fae4d9-2457-4da8-aad5-4aa122183d20",
+      "name": "Wendy Thomas",
+      "phone": "555-821-5065",
+      "email": "wendy.thomas@testmail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "84ceb641-109a-407b-a8df-5c94cd03afb6",
+      "name": "Tina Rodriguez",
+      "phone": "555-400-5784",
+      "email": "tina.rodriguez@mockemail.com",
+      "bookmarked": true
+  },
+  {
+      "id": "36186c70-cf5d-4966-a957-521321793776",
+      "name": "Tina Clark",
+      "phone": "555-146-1604",
+      "email": "tina.clark@testmail.com",
+      "bookmarked": true
+  },
+  {
+      "id": "7a665cbc-54f3-47e0-a0fb-6a0a70fef1ec",
+      "name": "David Thompson",
+      "phone": "555-762-3914",
+      "email": "david.thompson@mailinator.com",
+      "bookmarked": true
+  },
+  {
+      "id": "8d70e021-ff6d-4d68-b3f1-c7177851ab0d",
+      "name": "Victor Walker",
+      "phone": "555-884-7373",
+      "email": "victor.walker@mailinator.com",
+      "bookmarked": false
+  },
+  {
+      "id": "289edded-f53e-48d7-b725-0de03f215cb9",
+      "name": "Kate Young",
+      "phone": "555-757-7329",
+      "email": "kate.young@mockemail.com",
+      "bookmarked": true
+  },
+  {
+      "id": "ba18312b-411a-4d55-ab01-a5d20572db7b",
+      "name": "Mona Martin",
+      "phone": "555-112-2956",
+      "email": "mona.martin@mockemail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "67339243-6ef2-48eb-b343-a115b7fb1f54",
+      "name": "Leo Jackson",
+      "phone": "555-549-3689",
+      "email": "leo.jackson@testmail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "4036343d-7a46-44f5-9cd4-18bd3c538c97",
+      "name": "Xander Lewis",
+      "phone": "555-771-3272",
+      "email": "xander.lewis@example.com",
+      "bookmarked": true
+  },
+  {
+      "id": "f549b2de-fa5e-4037-8094-46f320227653",
+      "name": "Leo Walker",
+      "phone": "555-556-5768",
+      "email": "leo.walker@example.com",
+      "bookmarked": false
+  },
+  {
+      "id": "935ea07b-8111-4bf7-89f1-4ab654b6b417",
+      "name": "Alice Clark",
+      "phone": "555-366-5359",
+      "email": "alice.clark@mockemail.com",
+      "bookmarked": true
+  },
+  {
+      "id": "3eba2b0e-cafb-499c-8f7d-1c94ffd94650",
+      "name": "Paul Wilson",
+      "phone": "555-798-1067",
+      "email": "paul.wilson@example.com",
+      "bookmarked": true
+  },
+  {
+      "id": "6581bb10-2804-4be4-9b3b-5e26acde6aba",
+      "name": "Mona Taylor",
+      "phone": "555-394-3465",
+      "email": "mona.taylor@example.com",
+      "bookmarked": true
+  },
+  {
+      "id": "05212718-4d49-4fcf-900d-7e0e7c2c3ba8",
+      "name": "Ivy Davis",
+      "phone": "555-542-4446",
+      "email": "ivy.davis@mockemail.com",
+      "bookmarked": true
+  },
+  {
+      "id": "4f3d22a4-564e-4be3-9658-e0df0791f048",
+      "name": "Helen Robinson",
+      "phone": "555-854-4655",
+      "email": "helen.robinson@mockemail.com",
+      "bookmarked": false
+  },
+  {
+      "id": "d84f48ca-2639-4aa1-b606-7756887ee4ea",
+      "name": "Paul Wilson",
+      "phone": "555-722-4691",
+      "email": "paul.wilson@mailinator.com",
+      "bookmarked": false
+  },
+  {
+      "id": "975a667a-102c-4b83-addc-b2d8d6ee31dc",
+      "name": "Ivy Anderson",
+      "phone": "555-424-2762",
+      "email": "ivy.anderson@mockemail.com",
+      "bookmarked": true
+  },
+  {
+      "id": "5d2f5d21-6e40-41d0-a69b-80dab7dcabb7",
+      "name": "Leo Walker",
+      "phone": "555-439-8298",
+      "email": "leo.walker@mailinator.com",
+      "bookmarked": true
+  },
+  {
+      "id": "33c16b86-7939-422e-8d63-c5c00d89a2b9",
+      "name": "Uma Williams",
+      "phone": "555-222-7408",
+      "email": "uma.williams@mailinator.com",
+      "bookmarked": true
+  },
+  {
+      "id": "8d846a7a-3126-4782-be24-1a5b46793bdb",
+      "name": "Frank Lee",
+      "phone": "555-888-4430",
+      "email": "frank.lee@mailinator.com",
+      "bookmarked": true
+  }
+]
