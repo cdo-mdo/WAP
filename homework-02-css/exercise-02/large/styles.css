@@ -1,0 +1,131 @@
+/* For large image */
+
+/* Part 1: Flexbox */
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-item: center;
+    width: 1177px;
+    height: 179px;
+    background-color: #E0E0E0;
+}
+
+.flex-item {
+    display: flex;
+}
+
+.flex-item:first-child {
+    background-color: #4CAF50;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    width: 128px;
+    height: 101px;
+    border-radius: 10px;
+    font-size: 24px;
+    margin-left: 33px;
+    margin-top: 38px;
+}
+
+ul.flex-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    list-style: none;
+    width: 419px;
+    height: 122px;
+    
+    color: white;
+    font-size: 24px;
+    background-color: #4CAF50;
+    border-radius: 10px;
+    margin-right: 33px;
+    margin-top: 28px;
+}
+
+/* Part 2: Grid */
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 20px;
+    background-color: #F5F5F5;
+    padding: 20px;
+    width: 1137px;
+    height: 335px;
+}
+
+.grid-header {
+    display: flex;
+    grid-column: 1 / span 2; /* Span both columns */
+    background-color: #2196F3; /* Blue background */
+    color: black;
+    border-radius: 15px; /* Rounded corners */
+    padding-left: 40px;
+    padding-top: 30px;
+    font-size: 24px;
+}
+
+.grid-nav {
+    display: flex;
+    grid-column: 1;
+    grid-row: 2 / span 3;
+    background-color: #2196F3; /* Blue background */
+    color: black;
+    text-align: center; /* Center the text */
+    padding-left: 40px; /* Add padding */
+    padding-top: 90px;
+    border-radius: 15px; /* Rounded corners */
+    font-size: 24px;
+}
+
+.grid-content {
+    display: flex;
+    grid-colum: 2;
+    grid-row: 2;
+    background-color: #2196F3; /* Blue background */
+    color: black;
+    text-align: center; /* Center the text */
+    padding-left: 40px; /* Add padding */
+    padding-top: 30px;
+    border-radius: 15px; /* Rounded corners */
+    font-size: 24px;
+}
+
+.grid-footer {
+    display: flex;
+    grid-column: 2; /* Span both columns */
+    grid-row: 3;
+    background-color: #2196F3; /* Blue background */
+    color: black;
+    text-align: center; /* Center the text */
+    padding-left: 40px; /* Add padding */
+    padding-top: 30px;
+    border-radius: 15px; /* Rounded corners */
+    font-size: 24px;
+}
+
+/* Part 3: Position */
+.position-relative {
+    position: relative; /* Establish positioning context */
+    background-color: #FFEB3B; /* Yellow background */
+    width: 1177px;
+    height: 350px; /* Fixed height */
+    margin-top: 34px; /* Add spacing from grid */
+}
+
+.position-absolute {
+    position: absolute; /* Position relative to parent */
+    bottom: 15px; /* 20px from bottom of yellow box */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Adjust for true centering */
+    background-color: #FF5722; /* Orange background */
+    color: white; /* White text */
+    border-radius: 5px; /* Rounded corners */
+    width: 921px;
+    height: 43px;
+    padding-top: 20px;
+    font-size: 24px; /* Text size */
+    text-align: center; /* Center text */
+}

@@ -1,0 +1,11 @@
+node_modules
+./homework-06/test/node_modules
+./homework-09/products/node_modules
+./homework-10/weather/node_modules
+./project/frontend/node_modules
+./test/REACT/demo-1/node_modules
+./test/REACT/demo-2/node_modules
+./test/REACT/demo-3/node_modules
+./test/REACT/project-1/node_modules
+./test/REACT/project-2/node_modules
+./vite-project/node_modules

@@ -1,0 +1,15 @@
+{
+  "name": "exercise-01",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsx watch test.ts"
+  },
+  "dependencies": {
+    "exercise-01": "file:"
+  }
+}

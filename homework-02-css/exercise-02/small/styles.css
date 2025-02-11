@@ -1,0 +1,82 @@
+/* For small image */
+
+/* Part 1: Flexbox */
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 510px;
+    height: 95px;
+    background-color: #E0E0E0;
+    padding: 40px;
+}
+
+.flex-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 129px;
+    height: 102px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 15px;
+    font-size: 30px;
+}
+
+ul.flex-item {
+    display: none !important;
+}
+
+/* Part 2: Grid */
+
+.grid-container {
+    /* display: flex; */
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    background-color: #F2F2F2;
+    padding: 45px;
+}
+
+.grid-header, .grid-nav, .grid-content, .grid-footer {
+    /* display: flex; */
+    align-items: center;
+    width: 430px;
+    height: 30px;
+    background-color: #2196F3;
+    color: black;
+    border-radius: 15px;
+    padding: 35px;
+    margin-bottom: 30px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* Part 3: Position */
+.position-relative {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    width: 490px;
+    height: 320px;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FFFB3B;
+    padding-bottom: 20px;
+    margin-top: 42px;
+}
+
+.position-absolute {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 476px;
+    height: 68px;
+    background-color: #FF5722;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    border-radius: 10px;
+}

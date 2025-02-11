@@ -1,0 +1,44 @@
+{
+  "name": "wap_homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tsx watch names.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "@types/config": "^3.3.5",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/morgan": "^1.9.9",
+    "@types/nanoid": "^2.1.0",
+    "@types/node": "^22.10.7",
+    "supertest": "^7.0.0",
+    "tsx": "^4.19.2"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "archiver": "^7.0.1",
+    "config": "^3.3.12",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.12.0",
+    "nanoid": "^5.0.9",
+    "node-cron": "^3.0.3",
+    "node-localstorage": "^3.0.5",
+    "sharp": "^0.33.5",
+    "tailwindcss": "^4.0.0",
+    "vcf": "^2.1.2",
+    "wap_homework": "file:",
+    "zod": "^3.24.1"
+  }
+}

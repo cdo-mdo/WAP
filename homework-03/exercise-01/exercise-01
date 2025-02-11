@@ -1,0 +1,40 @@
+1. Explain the difference between primitive types and object references in JavaScript?
+
+- The primitive types is immutable, the object references is not immutable by default
+- The primitive types is passed by value, the object references is passed by reference
+- The reference types has shallow or deep copy
+
+
+2. What are advatanges of using TypeScript?
+
+- Safe programming with type
+- May get better performance by doing optimization when compile TypeScript code to JavaScript
+
+3. How can we run TypeScript code in the Browser
+
+- We compile the TypeScript code to JavaScript and run in JavaScript engine of the Browser
+
+4. What are the differences between let and const? What is their scope?
+
+- When declare with const, we cannot reassign new value for a variable. When declare with let
+  we can reassigne new value for variable.
+- Scope of let and const in the boundary define by their open and close bracket {}. If there is 
+  no bracket scope, the scope is global.
+
+5. What is an IIFE and write a snippet code for one?
+
+- IIFE stands for Immediately Invoked Function Expression. That is the function in the format 
+  of (f) ()
+  
+(function () {
+    console.log("This is IIFE");
+})();
+
+(function (name) {
+    console.log(`Hello ${name}`);
+}) ("cdo");
+
+((name) => {
+    console.log(`Hello ${name}`);
+}) ('mdo');
+

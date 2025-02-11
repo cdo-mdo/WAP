@@ -1,0 +1,16 @@
+
+.container {
+    width: 50%;
+    height: 500px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.child {
+    width: 200px;
+    height: 200px;
+    border: 2px solid blue;
+    background-color: light-gray;
+}
